@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "S4.Sandbox/1.0.0": {
+        "dependencies": {
+          "S4": "1.0.0"
+        },
+        "runtime": {
+          "S4.Sandbox.dll": {}
+        }
+      },
+      "S4/1.0.0": {
+        "runtime": {
+          "S4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S4.Sandbox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "S4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
