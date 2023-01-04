@@ -1,2 +1,2 @@
 # S4
-Subquadratic Similar Substring Search algorithm  (S4)
+Subquadratic Similar Substrings Search algorithm  (S4)
